@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A([Mulai]) --> B[/"Cetak judul program"/]
     B --> C[/"Input n (jumlah data)"/]
@@ -31,3 +32,4 @@ flowchart TD
     AA --> AB[["analisisEkor(skewness)"]]
     AB --> AC[["tampilkanKurva(data, n)"]]
     AC --> AD([Selesai])
+```
